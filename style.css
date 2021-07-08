@@ -1,0 +1,43 @@
+button{
+    transition: 0.3s;
+    color: #fff;
+    padding: 25px 50px;
+    background: transparent;
+    border: 2px solid ;
+    border-radius: 35px;
+    outline: none;
+    cursor: pointer;
+    background-color: red;
+
+
+}
+
+
+.btn1{
+    transition: 0.3s;
+    color: #fff;
+    padding: 25px 50px;
+    background: transparent;
+    border: 2px solid ;
+    border-radius: 35px;
+    outline: none;
+    cursor: pointer;
+    background-color: red;
+position: relative;
+left: 400px;
+}
+
+.btn2{
+    transition: 0.3s;
+    color: #fff;
+    padding: 25px 50px;
+    background: transparent;
+    border: 2px solid ;
+    border-radius: 35px;
+    outline: none;
+    cursor: pointer;
+    background-color: red;
+    position: relative;
+left: 800px;
+
+}
